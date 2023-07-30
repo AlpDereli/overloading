@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\patika\overloading\obj\Debug\net7.0\overloading.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\patika\overloading\obj\Debug\net7.0\overloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\patika\overloading\obj\Debug\net7.0\overloading.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\patika\overloading\obj\Debug\net7.0\overloading.AssemblyInfo.cs
+C:\Users\HP\Desktop\patika\overloading\obj\Debug\net7.0\overloading.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\patika\overloading\bin\Debug\net7.0\overloading.exe
+C:\Users\HP\Desktop\patika\overloading\bin\Debug\net7.0\overloading.deps.json
+C:\Users\HP\Desktop\patika\overloading\bin\Debug\net7.0\overloading.runtimeconfig.json
+C:\Users\HP\Desktop\patika\overloading\bin\Debug\net7.0\overloading.dll
+C:\Users\HP\Desktop\patika\overloading\bin\Debug\net7.0\overloading.pdb
+C:\Users\HP\Desktop\patika\overloading\obj\Debug\net7.0\overloading.dll
+C:\Users\HP\Desktop\patika\overloading\obj\Debug\net7.0\refint\overloading.dll
+C:\Users\HP\Desktop\patika\overloading\obj\Debug\net7.0\overloading.pdb
+C:\Users\HP\Desktop\patika\overloading\obj\Debug\net7.0\overloading.genruntimeconfig.cache
+C:\Users\HP\Desktop\patika\overloading\obj\Debug\net7.0\ref\overloading.dll
